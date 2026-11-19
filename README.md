@@ -1,2 +1,1 @@
-# shanshe-shoushi
-手势
+# handle-detail
